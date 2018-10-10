@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15B42" minimumToolsVersion="Xcode 7.0">
+    <entity name="Word" representedClassName=".Word" syncable="YES">
+        <attribute name="eighth" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="eleventh" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="fifth" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="first" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="forth" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="next" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="ninth" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="second" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="seventh" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="sixth" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="spell" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tenth" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="third" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="twelfth" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Word" positionX="-36" positionY="9" width="128" height="270"/>
+    </elements>
+</model>
